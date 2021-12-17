@@ -1,0 +1,5 @@
+main: reyd.nukkit.transfer.Transfer
+name: Transfer
+version: 1.0.3
+api: ["1.0.13"]
+author: Reydovich
